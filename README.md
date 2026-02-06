@@ -95,7 +95,7 @@ ai_ops_assistant/
 
 ```bash
 git clone <repository-url>
-cd TrulyMadly
+cd ai_ops_assistant
 ```
 
 ### 2. Create Virtual Environment
